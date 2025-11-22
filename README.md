@@ -51,8 +51,4 @@ Findings and analysis are taken from the full project report.  
 
 ---
 
-## 📊 Model Performance  
-| Metric | Train | Test |
-|--------|--------|--------|
-| RMSE | 0.195 | 0.198 |
-| MAE | 0
+## 📊 Model Performance remained high in Train and Test results.
